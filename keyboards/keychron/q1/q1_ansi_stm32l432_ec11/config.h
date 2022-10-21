@@ -55,3 +55,6 @@
 
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 45
+#define DEBUG_MATRIX_SCAN_RATE
+
+
